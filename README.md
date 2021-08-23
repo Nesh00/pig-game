@@ -12,8 +12,6 @@
 
 ## Overview
 
-### The challenge
-
 Users should be able to:
 
 - Start a new game when pressing the button
@@ -42,6 +40,5 @@ Users should be able to:
 
 ## Author
 
-- Nenad Tsvetanovski
 - LinkedIn - [https://www.linkedin.com/in/nenad-tsvetanovski-3101b474/]
 - Twitter - [https://twitter.com/nenad37452460]
